@@ -11,3 +11,7 @@ license: apache-2.0
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+### Dataset used
+
+https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset
