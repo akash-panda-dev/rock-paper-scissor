@@ -50,7 +50,11 @@ class RockPaperScissors:
 if __name__ == "__main__":
     title = "Rock Paper Scissors AI"
     description = "A simple rock paper scissors game with AI"
-    examples = ["Rock-Paper-Scissors/validation/rock7.png"]
+    examples = [
+        "example_rock.png",
+        "example_scissors.png",
+        "example_paper2.png",
+    ]
     interpretation = "default"
     enable_queue = True
 
