@@ -11,6 +11,7 @@ from hands.hand_interface import Hand
 hand_labels = [ROCK, PAPER, SCISSORS]
 # Use hand names to add logic for the game
 
+
 # Define a User enum
 class User(Enum):
     HUMAN = 1
